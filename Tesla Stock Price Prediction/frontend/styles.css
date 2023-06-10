@@ -1,0 +1,46 @@
+body{
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+div{
+  text-align: center;
+  color: white;
+  margin: 3.25rem;
+}
+
+div input{
+  color:black;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#image{
+  display: none;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+p{
+  text-align: center;
+  color: white;
+}
+
+#res{
+  display: none;
+}
+
+
